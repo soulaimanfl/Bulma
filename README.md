@@ -32,4 +32,3 @@ Le projet est structuré comme suit :
 ## Remerciements
 
 - [Bulma](https://bulma.io) pour le framework CSS.
-- Tous les contributeurs du projet.
