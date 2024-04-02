@@ -1,0 +1,64 @@
+
+body{
+    background-color: #b3deab;
+}
+.section{
+    background-color: #2f9608; color: #ffffff;
+}
+.column is-one-quarter img {
+    max-width: 80%;
+}
+.panel-heading a{
+    color: inherit; /* Utilise la couleur héritée du texte environnant */
+    text-decoration: none;
+}
+.panel-heading a:hover{
+    text-decoration: underline;
+}
+
+
+.breadcrumb a{
+    color: inherit; /* Utilise la couleur héritée du texte environnant */
+    text-decoration: none;
+}
+
+.buttons .is-info.is-selected {
+    background-color: #cc7517; /* Couleur de fond du bouton */
+    color: #ffffff; /* Couleur du texte sur le bouton */
+}
+
+li a:hover{
+    text-decoration: underline;
+}
+.containera h1 {
+    font-size:40px
+}
+.containera h1:nth-child(2){
+    font-size:28px;
+}
+.container h1{
+    font-size:28px;
+}
+
+/* Styles pour le tableau des joueurs */
+.table-container {
+    margin-top: 20px;
+}
+
+
+
+/* Styles pour les cellules de la première ligne (en-têtes) */
+.table thead th {
+    background-color: #259528;
+    color: #ffffff;
+}
+
+/* Styles pour les lignes impaires du corps du tableau */
+.table tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+
+
+
+
